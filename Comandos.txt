@@ -14,3 +14,10 @@ git remote add origin 'link do GitHub
 git add .
 git commit -m mensagem de commit
 git push origin main
+
+______
+Agora estamos na branch nova
+
+6 - 
+git checkout -b dev
+
