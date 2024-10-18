@@ -1,0 +1,16 @@
+Comandos
+
+1 - Criar pasta no computador
+
+2 -
+git init cria um repositório local
+
+3 - Copia os arquivos do computador
+git remote add origin 'link do GitHub
+
+4 - Criar os arquivos que precisa
+
+5 - Adiciona
+git add .
+git commit -m mensagem de commit
+git push origin main
